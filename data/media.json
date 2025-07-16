@@ -1,0 +1,20 @@
+{
+    "photos" : [
+        {
+            "title": "Ghost (Full)",
+            "description": "Capture a photo from the ghost."
+        }
+    ],
+    "videos" : [
+        {
+            "title": "Ghost Shapeshift",
+            "description": "Obake shapeshift during a hunt."
+        }
+    ],
+    "sounds" : [
+        {
+            "title": "Hunting Ghost",
+            "description": "Capture a sound from the ghost while hunting."
+        }
+    ]
+}

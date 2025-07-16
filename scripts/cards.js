@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', async () => {
     try {
         // 1. Carrega os dados
-        const response = await fetch('../data/media.json');
+        const response = await fetch('data/media.json');
         if (!response.ok) throw new Error('Failed to load data');
         const data = await response.json();
         
